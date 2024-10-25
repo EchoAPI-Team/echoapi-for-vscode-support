@@ -13,8 +13,7 @@ EchoAPI has a few standout features:
 4. **100% compatible with Postman script syntax**: You can switch over without having to relearn anything.
 
 ## Installing EchoAPI for VS Code
-
-![Installing EchoAPI for VS Code](https://github.com/user-attachments/assets/e238b5cf-7a9b-4bf5-ace3-e175e9c622f4)
+![Installing EchoAPI for VS Code](https://www.echoapi.com/blog/content/images/2024/10/image-3.png)
 
 Getting started with EchoAPI is a breeze. Just navigate to the VS Code Extensions Marketplace, search for EchoAPI, and hit install. No additional tools or sign-ins are necessary—everything operates straight from your VS Code sidebar.
 
