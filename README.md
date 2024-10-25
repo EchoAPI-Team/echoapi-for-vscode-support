@@ -24,6 +24,10 @@ Getting started with EchoAPI is a breeze. Just navigate to the VS Code Extension
 
 To create a new request, start by opening the EchoAPI tab where you’ll see options for recent activities, collections, and environments. It’s pretty intuitive if you’ve used Postman before. Right-click on the collection list to create a New Collection, name it, and then right-click on the collection name to add a new request.
 
+## Running a collection
+Just pick the folder you want to run, right-click, and hit "Run All." That’s it!
+![Running a collection](https://www.echoapi.com/blog/content/images/2024/10/image-4.png)
+
 ## Variables and Environments
 
 ![EchoAPI is 100% compatible with Postman script syntax](https://github.com/user-attachments/assets/ceb7762e-0c69-4f79-873c-1ac9bab71c38)
